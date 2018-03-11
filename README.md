@@ -17,6 +17,7 @@ Version History
 ----------------
 
 * v1.0.0     2018-03-09: Initial release.
+* NOTE: This module is now hosted on Drupal.org at https://www.drupal.org/project/password_hibp. Any further development work will be made there. This repository on Github is retained but will not be updated any further.
 
 
 Installation
